@@ -2,6 +2,13 @@
 
 Project description
 
+With different areas experiencing diverse amounts of criminal activity, the city of Chicago continues to struggle with controlling and reducing crime. There is an urgent need for an improved crime prediction system designed specifically for Chicago in order to handle this issue and allocate resources effectively. To predict where and when crimes are likely to occur, this system should make use of socioeconomic indicators, past crime data, and other pertinent aspects. The main objective of this project is to create a reliable crime prediction model for Chicago that will help law enforcement organizations and local government representatives allocate resources proactively and carry out targeted interventions to lower crime rates and improve public safety. 
+
+The problem of crime prediction in Chicago is critically important due to its potential to enhance public safety and resource allocation. High crime rates can lead to physical harm, property damage, and reduced quality of life for residents.
+
+The project utilizes a diverse dataset that includes historical crime data for Chicago. This dataset contains information such as crime types, locations, timestamps and demographic data. 
+[Data Link](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
+
 Started on 2023-09-15.
 
 ## Project Organization
